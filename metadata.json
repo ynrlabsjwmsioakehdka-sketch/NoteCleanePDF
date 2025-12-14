@@ -1,0 +1,5 @@
+{
+  "name": "NoteCleaner - PDF Watermark Remover",
+  "description": "A powerful tool that intelligently removes 'NotebookLM' watermarks from PDF slides using advanced image processing algorithms and converts them back to PowerPoint.",
+  "requestFramePermissions": []
+}
